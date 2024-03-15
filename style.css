@@ -1,5 +1,6 @@
 body {
-    background: #60a7e6;
+    background-image: url('https://wallup.net/wp-content/uploads/2019/09/838291-storm-weather-rain-sky-clouds-nature.jpg');
+    background-size: cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     align-items: center;
